@@ -5,7 +5,7 @@ output_file=requirements.dot
 
 cat << EOF > "${output_file}"
 digraph PhiloDilemma {
-  label = "Robert de Bock" ;
+  label = "Michael Buluma" ;
   overlap=false
   {
     "${this_role}" [fillcolor=yellow style=filled penwidth=3]
