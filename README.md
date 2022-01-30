@@ -1,2 +1,5 @@
 # docker-github-action-graphviz
-The container to use in a GitHub action to create a png out of an Ansible requirements.yml.
+
+A container that is used for [GitHub actions graphviz](https://github.com/marketplace/actions/requirements2png).
+
+[![github-action-graphviz build status](https://img.shields.io/docker/cloud/build/robertdebock/github-action-graphviz.svg)](https://hub.docker.com/repository/docker/robertdebock/github-action-graphviz)
