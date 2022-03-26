@@ -49,5 +49,5 @@ jobs:
           push: true
           # platforms: linux/s390x,linux/386,linux/mips64le,linux/mips64,linux/arm/v6
           platforms: linux/amd64,linux/amd64/v2,linux/amd64/v3,linux/amd64/v4,linux/arm64,linux/riscv64,linux/ppc64le,linux/arm/v7
-          tags: buluma/github-action-graphviz:${{ env.tag }}
+          tags: buluma/github-action-graphviz:latest
           # tags: buluma/github-action-graphviz:${{ env.tag }}
