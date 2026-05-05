@@ -1,7 +1,7 @@
-FROM buluma/fedora:33
+FROM buluma/fedora:44
 
 LABEL maintainer="Michael Buluma <me@buluma.co.ke>"
-LABEL build_date="2022-06-25"
+LABEL build_date="2026-05-05"
 
 WORKDIR /github/workspace
 
